@@ -8,5 +8,5 @@
 Tecnólogo y analista de sistemas conconocimientos en
 programación orientada a objetos.</strong></p>
 
-[![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mig23ang)]
+![miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mig23ang&show_icons=true)
 
