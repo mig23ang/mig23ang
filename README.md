@@ -3,10 +3,40 @@
    <h3 align="center">¡Hola 👋! Soy Miguel Angel Reyes Cardenas🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 8 años experiencia.</p>
+<p align="center">Soy <strong>Especialista en arquitectura y desarrollo de software</strong> con 11 años experiencia.</p>
 <p align="center">algo Sobre mi: <strong>Ingeniero de sistemas.
 Tecnólogo y analista de sistemas conconocimientos en
 programación orientada a objetos.</strong></p>
+<br>
+<p>
+HabilidadesTécnicas:
+•LenguajesdeProgramación:Java,PHP,
+JavaScript,Python
+•Frontend:Angular,ReactJS,Ionic,
+Flutter,NxMonorepos
+•Backend:Java(SpringBoot,Quarkus),
+Node.js(Express),Django
+•BasesdeDatos:MySQL,MongoDB,
+PostgreSQL,Oracle,SQLServer,
+Firebase
+•DevOpsyCloud:Docker,Kubernetes,
+Jenkins,Azure,AWS(EC2,S3),
+DigitalOcean,Heroku,cPanel
+•ServiciosyAPIs:REST,RESTful,
+GraphQL,gRPC,OpenAPI,Proto
+•MensajeríayProcesamientode
+Eventos:ApacheKafka,Avro
+•ServiciosFinancierosBancarios:I
+ntegraciónconBUSbancario,IBS,ESB,
+AS400,Experian,XML,SQLServer
+•HerramientasdeDesarrolloyGestiónde
+Proyectos:Git,GitHub,Jira,SCRUM,
+AzuredevOps
+•AnálisisdeDatosyMarketingDigital:
+GoogleAnalytics
+•SistemasOperativosyVirtualización:
+macOS,Linux,Windows
+</p>
 
 ![miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mig23ang&show_icons=true)
 
