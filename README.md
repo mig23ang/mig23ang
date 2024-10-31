@@ -9,31 +9,30 @@ Tecnólogo y analista de sistemas conconocimientos en
 programación orientada a objetos.</strong></p>
 <br>
 <p>
-HabilidadesTécnicas:
+HabilidadesTécnicas: <br>
 •LenguajesdeProgramación:Java,PHP,
-JavaScript,Python
+JavaScript,Python<br>
 •Frontend:Angular,ReactJS,Ionic,
-Flutter,NxMonorepos
+Flutter,NxMonorepos<br>
 •Backend:Java(SpringBoot,Quarkus),
-Node.js(Express),Django
+Node.js(Express),Django<br>
 •BasesdeDatos:MySQL,MongoDB,
 PostgreSQL,Oracle,SQLServer,
-Firebase
+Firebase<br>
 •DevOpsyCloud:Docker,Kubernetes,
 Jenkins,Azure,AWS(EC2,S3),
-DigitalOcean,Heroku,cPanel
+DigitalOcean,Heroku,cPanel <br>
 •ServiciosyAPIs:REST,RESTful,
-GraphQL,gRPC,OpenAPI,Proto
+GraphQL,gRPC,OpenAPI,Proto <br>
 •MensajeríayProcesamientode
-Eventos:ApacheKafka,Avro
-•ServiciosFinancierosBancarios:I
-ntegraciónconBUSbancario,IBS,ESB,
-AS400,Experian,XML,SQLServer
+Eventos:ApacheKafka,Avro <br>
+•ServiciosFinancierosBancarios:IntegraciónconBUSbancario,IBS,ESB,
+AS400,Experian,XML,SQLServer <br>
 •HerramientasdeDesarrolloyGestiónde
 Proyectos:Git,GitHub,Jira,SCRUM,
-AzuredevOps
+AzuredevOps <br>
 •AnálisisdeDatosyMarketingDigital:
-GoogleAnalytics
+GoogleAnalytics <br>
 •SistemasOperativosyVirtualización:
 macOS,Linux,Windows
 </p>
